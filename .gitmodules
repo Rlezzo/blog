@@ -1,0 +1,4 @@
+[submodule "rezzoblog/public"]
+	path = rezzoblog/public
+	url = git@github.com:Rlezzo/Rlezzo.github.io.git
+	branch = main

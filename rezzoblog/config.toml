@@ -1,0 +1,14 @@
+baseURL = 'https://rlezzo.github.io/'
+languageCode = 'en-us'
+title = 'Rezzo blog'
+theme = 'hugo-theme-cleanwhite'
+
+preserveTaxonomyNames = true
+paginate = 5 #frontpage pagination
+hasCJKLanguage = true
+
+
+[params]
+	header_image = "img/home-page-title-img.bmp"
+	SEOTitle = "Rezzo blog"
+	slogan = "苟利国家生死以，岂因祸福避趋之"
